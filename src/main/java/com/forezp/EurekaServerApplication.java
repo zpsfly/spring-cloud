@@ -11,7 +11,7 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
  * @EnableEurekaServer 服务注册服务端
  * @SpringBootApplication spring boot启动器
  * @author Administrator
- *
+ *  this git pro
  */
 @EnableEurekaServer
 @SpringBootApplication
